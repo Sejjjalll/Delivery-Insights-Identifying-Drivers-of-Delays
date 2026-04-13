@@ -154,7 +154,7 @@ This suggests that fixing individual ratios does not improve the on-time deliver
 
 ## **Visualizations / Dashboard**
 
-Tableau Dashboard: https://public.tableau.com/views/DeliveryInsights_17554220126250/DeliveryInsights?:language=en-US&:sid=&:redirect=auth&showOnboarding=true&:display_count=n&:origin=viz_share_link 
+Tableau Dashboard: https://public.tableau.com/authoring/SejalKhade/DeliveryInsights#1
 
 * Histogram of delivery durations with on-time thresholds (15, 20, 30 mins)
   
